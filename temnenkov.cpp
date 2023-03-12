@@ -54,6 +54,7 @@ int main(int argc, char *argv[])
        verts.append(firstVert);
        QVector<vert*> children;
        findAllChildren(&firstVert, children);
+       //send somewhere
        verts.append(children);
 
 
