@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <string.h>
 #pragma warning(disable:4996)
-
+// Добавил изменения
 
 unsigned long long int fact(int num);
 unsigned long long int power(int base, unsigned int power);
