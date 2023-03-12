@@ -9,7 +9,7 @@ unsigned long long int combinations(int m, int n);
 unsigned long long int combinationsWithRepeats(int m, int n);
 unsigned long long int arrangementWithRepeats(int m, int n);
 
-
+// Добавил изменения
 int main() {
 
 	int operNumber = 0;
